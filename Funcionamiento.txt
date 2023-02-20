@@ -1,0 +1,4 @@
+                                                                                                               FUNCIONAMIENTO DEL SISTEMA
+
+1)_  Ejecutar el Módulo Administración para registrar un usuario de recepción (administrador o recepcionista) y recién se podrá Iniciar Sesión en los módulos Administración y Recepción.
+ 2)_ Ejecutar el Módulo Recepción para registrar un socio y registrar su actividad, antes de esto hay que iniciar sesión
